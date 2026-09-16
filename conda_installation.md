@@ -15,8 +15,8 @@
 #### Or it can be built from source
 #### These are the prerequisites for PhotoCryX
 #### To install PhotoCryX, download the latest version anywhere on your system, unzip it, and you are ready to compute. A desktop icon can be created using the launcher script provided in PhotoCryX. After the installation of the required packages and unzipping PhotoCryX (say in the "Downloads" folder), we will change the directory as,
-    wget -O PhotoCryX.zip https://github.com/donmathew008/PhotoCryX/raw/main/PhotoCryX.zip
     cd ~/Downloads
+    wget -O PhotoCryX.zip https://github.com/donmathew008/PhotoCryX/raw/main/PhotoCryX.zip
     unzip PhotoCryX.zip
     cd PhotoCryX
 #### Then we will create a desktop launcher by executing the "makeLauncher_PhotoCryX.sh" after making it executable by,
@@ -27,7 +27,6 @@
 #### Thus PhotoCryX can be launched directly from the desktop
 #### After creating the launcher, right-click on the desktop icon and give "Allow Launching"
 #### Now the installation is completed
-#### For those users who prefers direct execution mode using a terminal, the executables are to be added to the current path. They are stored in the folder "EXEC" inside PhotoCryX, so to add to the path,
+#### For users who prefer direct execution mode via a terminal, the executables should be added to the current path. They are stored in the folder "EXEC" inside PhotoCryX, so to add to the path,
     export PATH=~/Downloads/PhotoCryX/EXEC:$PATH
-#### Thus, we can directly use the executable in whichever parent folder has the required inputs, namely, "mpb.in" and the GDSII file.
-
+#### Thus, we can directly use the executable in whichever parent folder contains the required inputs: "mpb.in" and the GDSII file.
