@@ -30,10 +30,11 @@
 |                                     File / Folder                                      |              Description              |
 |----------------------------------------------------------------------------------------|---------------------------------------|
 | [Installation.md](https://github.com/donmathew008/PhotoCryX/blob/main/Installation.md) | Installation instructions using conda |
-|   [PhotoCryX.zip](https://github.com/donmathew008/PhotoCryX/blob/main/PhotoCryX.zip)   |              Source code              |
+|     [PhotoCryX](https://github.com/donmathew008/PhotoCryX/blob/main/PhotoCryX.zip)     |              Source code              |
 |       [README.md](https://github.com/donmathew008/PhotoCryX/blob/main/README.md)       |          General Readme file          |
 |   [photocryx.png](https://github.com/donmathew008/PhotoCryX/blob/main/photocryx.png)   |           PhotoCryX Icon              |
 |           [docs](https://github.com/donmathew008/PhotoCryX/tree/main/docs)             |     Compiled Documentation folder     |
+|             [src](https://github.com/donmathew008/PhotoCryX/tree/main/src)             |         Source code Archive           |
 
 ## Installation
 
