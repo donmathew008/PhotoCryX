@@ -19,28 +19,29 @@ cd ~/Desktop/FCC
 mpb-data -m 2 -r -n 32 band-epsilon.h5 band-dpwr.k06.b*.h5
 ```
 ```                                                                                   
-h5tov5d -o diamond.v5d -d data-new band-epsilon.h5 band-dpwr.k06.b*.h5
+h5tov5d -o fcc.v5d -d data-new band-epsilon.h5 band-dpwr.k06.b*.h5
 ```
 	
-# Sometimes the HDF5 library is not found, then 
+### Sometimes the HDF5 library is not found; then export the lib location (Replace "HDF5_PATH" with the HDF5 directory)
 
 ```
-export LD_LIBRARY_PATH=/usr/local/hdf5/lib/:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=HDF5_PATH/lib/:$LD_LIBRARY_PATH
 ``` 
 	
-# If HDF5 error pops up export the following and run the above 
+### If an HDF5 error pops up, export the following and run the above 
 
 ```
 export HDF5_USE_FILE_LOCKING=FALSE
 ```
-	
-# To view using vis5d (Recommended)
+### This command may be used constantly in dealing with HDF5 files
+
+### To view using vis5d (Recommended)
                                                                                    
 ```
-vis5d diamond.v5d &
+vis5d fcc.v5d &
 ```
 	
-# To view in Mayavi, execute 
+### To view in Mayavi, execute 
 
 ```
 python plot3d.py
