@@ -62,8 +62,10 @@ PhotoCryX/
 │        ├── band.py                # Master code for 3D Simple Cubic (SC) lattice
 │        └── plot3d.py
 ├── EXEC/                           # Master EXEC folder with executables
-│   ├── main.py
-│   └── utils.py
+│   ├── mpb_1d -> mpb_1d.py
+│   ├── mpb_hx -> mpb_hx.py
+│   ├── mpb_sq -> mpb_sq.py
+│   └── mpb_vy -> mpb_vy.py
 └──  TEST/                          # Test Directory
        ├── 1d/                # Master code for 3D Face Centred Cubic (FCC) lattice
        ├── hex/
