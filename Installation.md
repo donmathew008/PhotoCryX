@@ -50,6 +50,13 @@ chmod +x makeLauncher_PhotoCryX.sh
 ```
 cp PhotoCryX.desktop ~/Desktop
 ```
+#### Also make the executables executable
+```
+cd EXEC
+```
+```
+chmod +x mpb_1d mpb_hx mpb_sq mpb_vy
+```
 #### Right-click on the Desktop icon and give "Allow Launching"
 #### Thus PhotoCryX can be launched directly from the desktop
 #### After creating the launcher, right-click on the desktop icon and give "Allow Launching"
