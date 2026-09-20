@@ -1,0 +1,38 @@
+# ===== Geometry Controls =====
+GDS_FILE = valley.gds
+INDEX = 11.7
+
+# ===== Simulation Parameters =====
+NUM_BANDS = 9
+RESOLUTION = 128
+INTERPOLATION_POINTS = 20
+
+# ===== Plot Controls =====
+PLOT_EPSILON = .TRUE.
+PERIODS = 3
+PLOT_BANDS   = .TRUE.
+PLOT_BANDS_NORM = .TRUE.
+
+# KPATH = 0 2 1 0
+#  Γ = 0
+#  K = 1
+#  M = 2
+#  X = 4
+# -X = 5
+#  K' = 3
+KPATH = 2 0 3 2 0 1 2
+
+FIELD_KPOINT = 3
+
+PLOT_TM_FIELDS = .TRUE.
+PLOT_TE_FIELDS = .TRUE.
+
+PLOT_TM_FIELDS_NORM = .TRUE.
+PLOT_TE_FIELDS_NORM = .TRUE.
+
+PLOT_TM_PHASE = .TRUE.
+PLOT_TE_PHASE = .TRUE.
+
+###############
+
+

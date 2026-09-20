@@ -1,0 +1,36 @@
+# ===== Geometry Controls =====
+GDS_FILE = 1d.gds
+INDEX1 = 11.7
+INDEX2 = 2.1025
+
+# ===== Simulation Parameters =====
+NUM_BANDS = 9
+RESOLUTION = 128
+INTERPOLATION_POINTS = 20
+
+# ===== Plot Controls =====
+PLOT_EPSILON = .TRUE.
+PERIODS = 1
+PLOT_BANDS   = .TRUE.
+PLOT_BANDS_NORM = .TRUE.
+
+#  KPATH = 5 0 4
+#  Γ = 0
+#  K = 1
+#  M = 2
+#  X = 4
+# -X = 5
+
+KPATH = 5 0 4
+
+FIELD_KPOINT = 4
+
+PLOT_TM_FIELDS = .TRUE.
+
+PLOT_TM_FIELDS_NORM = .TRUE.
+
+PLOT_TM_PHASE = .TRUE.
+
+###############
+
+

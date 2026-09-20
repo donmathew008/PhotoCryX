@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# find directory where this script lives
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+# activate conda environment "mp"
+# NOTE: conda must be initialized already on your system
+source "$(conda info --base)/etc/profile.d/conda.sh"
+conda activate mp
+
+# run the Python file in the CURRENT directory
+python "$SCRIPT_DIR/mpb_hx.py"
+
