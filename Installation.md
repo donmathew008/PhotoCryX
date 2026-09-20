@@ -205,5 +205,3 @@ sudo make install
 ```
 pip install mayavi
 ```
-# Usage - within GUI
-
