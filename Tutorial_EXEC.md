@@ -7,7 +7,11 @@
 * mpb_sq
 * mpb_vy
 
-  
+#### The mandatory files are "mpb.in" and the GDSII file  
 
+
+```
+export PATH=~/Downloads/PhotoCryX/PhotoCryX/EXEC:$PATH
+```
 
 
