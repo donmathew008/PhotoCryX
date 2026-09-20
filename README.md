@@ -5,6 +5,7 @@
 ### PhotoCryX is a free and open-source tkinter-based graphical user interface (GUI) for MIT photonic bands (MPB) to compute band structures of photonic crystals
 
 ## Features
+
 * Free and open-source under the GNU General Public License v2.0
 * GUI is based on the tkinter package
 * Exclusively designed for the computation of band structures in Photonic Crystals
@@ -25,14 +26,17 @@
 
         
 ## File Description
-| File | Description |
-|------|-------------|
+
+|                                     File / Folder                                      |              Description              |
+|----------------------------------------------------------------------------------------|---------------------------------------|
 | [Installation.md](https://github.com/donmathew008/PhotoCryX/blob/main/Installation.md) | Installation instructions using conda |
-| [PhotoCryX.zip](https://github.com/donmathew008/PhotoCryX/blob/main/PhotoCryX.zip) | Source code |
-| [README.md](https://github.com/donmathew008/PhotoCryX/blob/main/README.md) | General Readme file |
-| [photocryx.png](https://github.com/donmathew008/PhotoCryX/blob/main/photocryx.png) | PhotoCryX Icon |
+|   [PhotoCryX.zip](https://github.com/donmathew008/PhotoCryX/blob/main/PhotoCryX.zip)   |              Source code              |
+|       [README.md](https://github.com/donmathew008/PhotoCryX/blob/main/README.md)       |          General Readme file          |
+|   [photocryx.png](https://github.com/donmathew008/PhotoCryX/blob/main/photocryx.png)   |           PhotoCryX Icon              |
+|           [docs](https://github.com/donmathew008/PhotoCryX/tree/main/docs)             |     Compiled Documentation folder     |
 
 ## Installation
+
 #### Follow the installation steps given [here](https://github.com/donmathew008/PhotoCryX/blob/main/Installation.md)
 #### (The steps include installing some additional packages apart from the standard MEEP installation given [here](https://meep.readthedocs.io/en/master/Installation/#conda-packages))
 
