@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photocryx.png" width="600">
+  <img src="images/photocryx.png" width="600">
 </p>
 
 ### PhotoCryX is a free and open-source tkinter-based graphical user interface (GUI) for MIT photonic bands (MPB) to compute band structures of photonic crystals
