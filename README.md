@@ -2,7 +2,7 @@
   <img src="photocryx.png" width="600">
 </p>
 
-### PhotoCryX is a free and open-source tkinter-based graphical user interface (GUI) for MIT photonic bands (MPB) to compute photonic band structures
+### PhotoCryX is a free and open-source tkinter-based graphical user interface (GUI) for MIT photonic bands (MPB) to compute photonic band structures for photonic crystals
 
 ## Features
 * Free and open-source under GNU General Public License v2.0
@@ -21,6 +21,7 @@
       * Diamond Lattice
 * Standard lattices with cylinders and spheres can be dynamically modified
 * Any complex 2D lattice can be modelled from the GDSII structure import
+* 3D visualization using Vis5d and Mayavi is included
 
         
 ## File Description
