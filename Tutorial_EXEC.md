@@ -17,6 +17,7 @@ cd ~/Downloads/PhotoCryX/PhotoCryX/TEST/hex
 ```
 export PATH=~/Downloads/PhotoCryX/PhotoCryX/EXEC:$PATH
 ```
+#### This can be added to bash as well
 #### Here, as the hexagonal and honeycomb possess the same reciprocal vectors, the executable is "mpb_hx"
 #### Edit the master control file "mpb.in" if needed and then execute
 ```
