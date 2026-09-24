@@ -34,6 +34,9 @@ git clone https://github.com/donmathew008/PhotoCryX
 cd PhotoCryX
 ```
 ```
+cp src/PhotoCryX.zip .
+```
+```
 unzip PhotoCryX.zip 
 ```
 ```
