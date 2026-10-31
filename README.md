@@ -33,7 +33,7 @@
 |         [PhotoCryX](https://github.com/donmathew008/PhotoCryX/blob/main/PhotoCryX.zip)         |                  Source code                   |
 |           [README.md](https://github.com/donmathew008/PhotoCryX/blob/main/README.md)           |              General Readme file               |
 |       [photocryx.png](https://github.com/donmathew008/PhotoCryX/blob/main/photocryx.png)       |               PhotoCryX Icon                   |
-|               [docs](https://github.com/donmathew008/PhotoCryX/tree/main/docs)                 |     Compiled Documentation (in PDF) folder     |
+|               [doc](https://github.com/donmathew008/PhotoCryX/tree/main/doc)                 |     Compiled Documentation (in PDF) folder     |
 |                 [src](https://github.com/donmathew008/PhotoCryX/tree/main/src)                 |             Source code Archive                |
 | [3D_Visualization.md](https://github.com/donmathew008/PhotoCryX/tree/main/3D_Visualization.md) |         3D visualization Instructions          |
 |     [Tutorial_GUI.md](https://github.com/donmathew008/PhotoCryX/tree/main/Tutorial_GUI.md)     |              Tutorial for GUI                  |
